@@ -1,0 +1,8 @@
+reference,part,value,package,qty
+U1,TL074,quad op-amp,SOIC-14,2
+U2,LM317,adjustable regulator,TO-220,1
+U3,PCM1808,audio ADC,TSSOP-20,1
+Q1,BC847,small-signal NPN,SOT-23,4
+R1-R8,0.1% metal film,10k,0805,8
+C1-C6,C0G ceramic,100nF,0603,6
+J1-J3,TRS jack,switched,THT,3

@@ -1,0 +1,8 @@
+{
+  "package": "morrow-filter",
+  "language": "C",
+  "toolchain": "arm-none-eabi-gcc 12.2",
+  "revision": "Rev B",
+  "updated_at": "2026-10-28",
+  "release_channel": "catalogue"
+}

@@ -1,0 +1,9 @@
+title: Hollowpine Instruments
+description: Open hardware instruments from the Hollowpine workshop
+baseurl: ""
+collections:
+  entries:
+    output: true
+permalink: /catalogue/:slug/
+markdown: kramdown
+# repository generated from the catalogue workflow - do not hand-edit

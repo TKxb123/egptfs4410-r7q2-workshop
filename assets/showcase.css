@@ -1,0 +1,8 @@
+/* Hollowpine catalogue - shared stylesheet */
+:root {
+  --ink: #1d1c1a;
+  --paper: #f4f0e8;
+  --accent: #8b5e34;
+}
+body { color: var(--ink); background: var(--paper); font-family: Georgia, serif; }
+.entry-title { letter-spacing: 0.02em; }
